@@ -1,5 +1,5 @@
 # dio-projeto-SpringApi
-```Mermaid
+```mermaid
 
 classDiagram
     class Recibo
